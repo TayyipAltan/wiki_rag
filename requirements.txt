@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-text-splitters
+langgraph
+chromadb
+ollama
+fastapi
+uvicorn
+python-dotenv
+logging
+ipykernel
+wikipedia
